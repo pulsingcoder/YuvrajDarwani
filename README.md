@@ -5,10 +5,11 @@
 ## 🚀 Hello, Folks!
 I'm a Yuvraj Darwani and I'm passionated about developing XR games and on the way to create a metaverse where players will play and explore together and have a better reality experience.
 
-
 ## 🛠 Skills
 Unity, C#, C++, Javascript, THREE.js, BABYLON.js
 
+## 🚀 My Stats
+![Yuvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulsingcoder&show_icons=true&theme=merko)
 
 ## What else
 👩‍💻 I'm currently working at RapidQuest Solution
