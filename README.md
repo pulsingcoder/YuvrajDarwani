@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/pulsingcoder/YuvrajDarwani/main/new.png)
+<img src="https://raw.githubusercontent.com/pulsingcoder/YuvrajDarwani/main/new.png " width="563" height="316">
 
 
 ## 🚀 Hello, Folks!
