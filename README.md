@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/pulsingcoder/YuvrajDarwani/main/UVSpaceLogo.jpg)
+![Logo](https://raw.githubusercontent.com/pulsingcoder/YuvrajDarwani/main/new.png)
 
 
 ## 🚀 Hello, Folks!
