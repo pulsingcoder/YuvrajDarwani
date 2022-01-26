@@ -11,7 +11,7 @@ Unity, C#, C++, Javascript, THREE.js, BABYLON.js
 ## 🚀 My Stats
 ![Yuvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulsingcoder&show_icons=true&theme=merko)
 
-## What else
+## 🤔 What else
 👩‍💻 I'm currently working at RapidQuest Solution
 
 🧠 I'm currently learning character design, quick templates for AR games.
