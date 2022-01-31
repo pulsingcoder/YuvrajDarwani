@@ -12,7 +12,7 @@ Unity, C#, C++, Javascript, THREE.js, BABYLON.js
 ![Yuvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulsingcoder&show_icons=true&theme=merko)
 
 ## 🤔 What else
-👩‍💻 I'm currently working at RapidQuest Solution
+👩‍💻 I'm currently working at Touchcore Systems Private Limited.
 
 🧠 I'm currently learning character design, quick templates for AR games.
 
@@ -20,7 +20,7 @@ Unity, C#, C++, Javascript, THREE.js, BABYLON.js
 
 ⚡️ Two new VR games about to release this year. Stay tunned :)
 
-🤔 I'm looking for help with suggestion for new anime or manga to read
+🤔 I'm looking for help with suggestion for new anime or manga to read.
 
 
 ## 🔗 Connect with me
