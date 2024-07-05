@@ -8,6 +8,9 @@ I'm a Yuvraj Darwani and I'm passionated about developing XR games and on the wa
 ## 🛠 Skills
 Unity, C#, C++, Javascript, THREE.js, BABYLON.js
 
+## 🚀 My Stats
+![Yuvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulsingcoder&show_icons=true&theme=merko)
+
 ## 🤔 What else
 👩‍💻 I'm currently working at Touchcore Systems Private Limited.
 
